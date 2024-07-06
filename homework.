@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+    .hassan{ 
+      margin:10px;
+      border:1px solid #e22020;
+      padding: 10px;
+    }
+    .hassan{
+      background-color: black;
+      color: red;
+      font-size: 28p;
+      block-size: 33;
+
+    }
+
+
+
+
+    .hn{ 
+      margin:10px;
+      border:2px solid #e22020;
+      padding: 10px;
+    }
+    .hn{
+      background-color: black;
+      color: rgb(9, 255, 0);
+      font-size: 28p;
+      block-size: 33;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    </style>
+</head>
+<body>
+ 
+ <div class="hassan">
+   <center><img height="200" src="./hft.jpg" alt="image"></center> 
+  </div> 
+
+   
+  <div class="hassan">
+    <center><h1>WELCOME </h1></center>
+    </div> 
+    
+
+
+  <div class="hn">
+<center><h2>MY NAME IS HASSAN </h2></center>
+</div> 
+
+<div class="hassan"> 
+  <center><h1>  <p>MY INTRODUCTION</p></h1></center>
+ </div >
+ <div class="hn">
+  <center><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Adipisci consequuntur voluptatem voluptas voluptatibus provident tempore, excepturi, explicabo veritatis dolor repellendus dolorem non itaque! ipsum dolor sit amet consectetur.</p></center>
+ </div>
+
+
+<div class="hassan">
+    <center><h1>MY WORK</h1> </center>
+</div >
+<div class="hn" >
+    <center><p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ab harum, facilis nostrum voluptates quos illo repellendus, fugiat voluptatibus eaque minus dolorum, adipisci laborum asperiores! Accusamus velit labore doloremque! Nesciunt magnam aliquam velit sed earum, tenetur dolores voluptate atque accusantium, esse unde fuga quam similique culpa dolore? Saepe molestias officiis maxime, suscipit possimus numquam laudantium reprehenderit quasi! ipsum dolor sit amet consectetur adipisicing elit.</p></center>
+</div>
+</body>
+</html>
